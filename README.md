@@ -1,0 +1,1 @@
+Microphone enabler and peak detection default for VR (Take first mic)

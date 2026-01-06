@@ -1,0 +1,11 @@
+{
+    "name": "Cadema.Z1audiomic.Tests",
+    "references": [
+        "Cadema.Z1audiomic"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

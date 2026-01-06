@@ -1,0 +1,10 @@
+{
+    "name": "Cadema.Z1audiomic.Editor",
+    "references": [
+      "Cadema.Z1audiomic"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "com.cadema.z1audiomic",
+  "displayName": "Z1 AudioMic",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "unityRelease": "2f1",
+  "description": "Microphone enabler and peak detection default for VR (Take first mic)",
+  "author": {
+    "name": "Z1 Studio"
+  }
+}
